@@ -13,9 +13,9 @@ medium = True
 limited_edition = True
 celestial = True
 
-session_string = os.getenv('SESSION_STRING')
-api_hash = os.getenv('API_HASH')
-api_id = os.getenv('API_ID')
+session_string = os.getenv('BQFvkccAeblNeOv2vcwjssAitH1GCATnnVNjL_XnCOjrzK2hBC-PnY7n6lpB6pysT881piZUynd67-PyQx-wAjV-Kgrl4mDu4QhzAE9vgw_beJtbd-oSwisJveGQ9toX_yKKaezWA1sn59cUCxClEf_OhMjKjyAQ193T74-xb4wzqpIWyZW7OZAI0iG7XM3cPuR_f_WOxS4l4Pp_sS6wtZfU3viqsHDuUaXU5Rb0XioISOmpjmK8kdU8KIn9MxNLu-CNIfOJ_YRPGturPjBnMTgKX-F-EnabHZca541pD-Hk5EU5PXbvzxmw_bslDM1VCIsAEbQxXMZY8-VHH698Vuw6YBl_3QAAAAGIe-pcAA')
+api_hash = os.getenv('0615e3afe13ddaaf8e9ddbd3977d35ff')
+api_id = os.getenv('24089031')
 
 app = Client("loli", api_id=api_id, api_hash=api_hash, session_string=session_string)
                     
